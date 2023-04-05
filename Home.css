@@ -1,6 +1,6 @@
  .u-section-1 {
   background-image: none;
-  min-height: 873px;
+  min-height: 907px;
 }
 
 .u-section-1 .u-image-1 {
@@ -15,7 +15,7 @@
 }
 
 .u-section-1 .u-group-1 {
-  min-height: 417px;
+  min-height: 486px;
   height: auto;
   background-image: none;
   --animation-custom_in-scale: 1;
@@ -37,7 +37,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 180deg;
   --animation-custom_in-scale: 0.3;
-  margin: -92px auto 0;
+  margin: -38px auto 0;
 }
 
 .u-section-1 .u-text-1 {
